@@ -106,28 +106,15 @@ nav li a.active {
     background-color: #4f7a28;
 }
 
-.Bernard{
-   float:left;
-  width:200px;
-  padding-right: 5px; 
-  height: 122%;
-}
-
 
   .Flag{
     float:left;
-    width:230px;
+    width:220px;
     padding-right: 10px; 
     height: 180%;
   }
 
-.Chanel{
-  margin-left: 100px;
-}
 
-.boutiqe{
-  margin-left: 100px;
-}
 
 .pancake{
   float:left;
