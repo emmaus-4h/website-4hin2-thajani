@@ -84,6 +84,8 @@ nav ul {
     padding: 0;
     background-color: #7c2a00;
     overflow: hidden;
+  border: 3mm ridge white;
+  border-radius: 10px;
 }
 
 nav ul li {
@@ -99,7 +101,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #7c2a00;
+    background-color: #964922;
 }
 
 nav li a.active {
@@ -112,12 +114,21 @@ nav li a.active {
     width:220px;
     padding-right: 10px; 
     height: 180%;
+   
   }
 
 
 
 .pancake{
-  float:left;
+float:left;
   width:200px;
   height: 22%;
+border: 1mm ridge #000000;
+  border-radius: 10px;
+}
+
+
+.stroop {
+  border: 1mm ridge #1f1f1f;
+  border-radius: 10px;
 }
